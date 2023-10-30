@@ -1,0 +1,3 @@
+Listing1	45.14
+Listing2	89.45
+Listing3	67.89

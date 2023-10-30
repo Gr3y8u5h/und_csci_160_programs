@@ -1,0 +1,8 @@
+Math:A:4
+Spelling:B:3
+English:C:2
+History:D:1
+Shop:F:0
+Art:A:4
+Music:B:3
+Biology:D:1

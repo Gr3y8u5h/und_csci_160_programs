@@ -1,0 +1,5 @@
+circle,10
+triangle,5,20
+rectangle,30,40
+circle,11
+square,10
